@@ -1,0 +1,18 @@
+🩺 Cancer Stage Classification & Survival Prediction
+
+
+ 🎯 Use Case
+- **Classification**: Predict cancer stage (Stage I, II, III)  
+- **Regression**: Predict survival days based on clinical, lifestyle, and treatment variables  
+- **Business Development**: Proof-of-concept GenAI pipelines for hospitals, insurers, and startups  
+- **Research**: Benchmark dataset for cancer analytics and survival modeling  
+
+
+
+I have built a **millions-record cancer dataset** for India — designed for **classification (Stage I, II, III)** and **regression (survival days)**.  
+This isn’t just data. It’s a **research accelerator**:  
+- Hospitals → Predict patient outcomes  
+- Insurers → Risk stratification  
+- Startups → GenAI proof-of-concepts  
+- Researchers → Benchmark datasets for cancer analytics  
+
